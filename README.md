@@ -4,7 +4,8 @@ Student-made open-source extension that works inside WWU's registrar software (W
 <img width="440" height="280" alt="SMALL-PROMO-TILE" src="https://github.com/user-attachments/assets/3e1ecb2d-98cb-429e-8492-897bab82eb18" />
 
 
-<img width="440" height="280" alt="Screen Recording 2026-09-29 at 12 20 06 PM" src="https://github.com/user-attachments/assets/0dd68c74-253d-45d1-98d6-7c7eb2cd1115" />
+<img width="2280" height="1552" alt="Screen Recording 2026-09-29 at 12 26 37 PM" src="https://github.com/user-attachments/assets/723f712b-6d4f-49c3-955c-13091c18002e" />
+
 
 ![Uploading SMALL-PROMO-TILE.png…]()
 
