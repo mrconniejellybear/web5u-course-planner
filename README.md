@@ -1,6 +1,14 @@
 # web5u-course-planner
 Student-made open-source extension that works inside WWU's registrar software (Web4u) by extracting embedded course data via .Json parser &amp; adapting them to an improved, accessible UI. Developed by Connor Mausolf for free use by Western Washington University students.
 
+<img width="440" height="280" alt="SMALL-PROMO-TILE" src="https://github.com/user-attachments/assets/3e1ecb2d-98cb-429e-8492-897bab82eb18" />
+
+
+<img width="440" height="280" alt="Screen Recording 2026-09-29 at 12 20 06 PM" src="https://github.com/user-attachments/assets/0dd68c74-253d-45d1-98d6-7c7eb2cd1115" />
+
+![Uploading SMALL-PROMO-TILE.png…]()
+
+
 Plan your quarter
 • A searching in the Web4u catalogue, press "+ Add" on a course to add it to the queue. Courses you add will be used in your week-builder.
 • If an 8 AM is too early, or a tie-slot is already full, simply uncheck it from the list, so they stay out of your way.
