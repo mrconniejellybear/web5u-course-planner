@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Web5u: Course Planner",
+  "short_name": "Web5u",
+  "version": "1.0.2",
+  "description": "Add-on for Web4u class registration: drag-and-drop classes, compare course loads, and save your schedule to your calendar.",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "homepage_url": "https://web5u-downloader.netlify.app/",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://registration.banner.wwu.edu/StudentRegistrationSsb/*"
+      ],
+      "js": [
+        "hook.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": [
+        "https://registration.banner.wwu.edu/StudentRegistrationSsb/*"
+      ],
+      "js": [
+        "normalize.js",
+        "plan.js",
+        "registered.js",
+        "ics.js",
+        "sendcrns.js",
+        "calendar.js",
+        "ui.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
