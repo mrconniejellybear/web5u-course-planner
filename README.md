@@ -1,10 +1,9 @@
 # web5u-course-planner
 Student-made open-source extension that works inside WWU's registrar software (Web4u) by extracting embedded course data via .Json parser &amp; adapting them to an improved, accessible UI. Developed by Connor Mausolf for free use by Western Washington University students.
 
+
 <img width="2280" height="1552" alt="Screen Recording 2026-09-29 at 12 26 37 PM" src="https://github.com/user-attachments/assets/723f712b-6d4f-49c3-955c-13091c18002e" />
 
-
-![Uploading SMALL-PROMO-TILE.png…]()
 
 
 Plan your quarter
